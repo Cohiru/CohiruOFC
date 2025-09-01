@@ -15,7 +15,7 @@ export default function Tentang() {
 
       <div className="text-center md:text-left max-w-2xl">
         <h1 className="text-4xl font-bold text-orange-400 mb-4">
-          Whatssup, I'm Choky!
+          Whatssup, Im Choky!
         </h1>
         <p className="text-lg text-white/80 leading-relaxed">
           aku adalah seorang programmer pemula,
