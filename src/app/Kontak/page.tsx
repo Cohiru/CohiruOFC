@@ -1,4 +1,4 @@
-"use client"; // supaya event handler jalan di Next.js App Router
+"use client";
 
 import { FormEvent, useState } from "react";
 
